@@ -1,6 +1,6 @@
 # pyh: Extended Python3 syntax inspired by Haskell and more
 
-Compile into Python.
+Compile into Python, or, preprocessor.
 
 
 ```python
@@ -122,7 +122,8 @@ decistmt s
 Design philosophy:
 * Do not mix with official syntax.
 
-
+Links:
+* https://wiki.python.org/moin/PythonImplementations
 * https://jon.how/likepython/
 * https://learnxinyminutes.com/docs/haskell/
 
