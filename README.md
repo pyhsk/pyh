@@ -122,6 +122,10 @@ decistmt s
 Design philosophy:
 * Do not mix with official syntax.
 
+Todo:
+* ipython (Jupyter notebook)
+* vim
+
 Links:
 * https://wiki.python.org/moin/PythonImplementations
 * https://jon.how/likepython/
